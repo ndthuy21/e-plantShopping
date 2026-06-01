@@ -1,0 +1,6 @@
+.landing-page {
+    background-image: url('https://images.unsplash.com/photo-1463936575829-25148e1db1b8?q=80&w=1500');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+}
